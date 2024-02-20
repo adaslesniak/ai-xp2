@@ -4,7 +4,7 @@ from sklearn.decomposition import PCA
 
 
 
-data = scaled_data(1200)=
+data = scaled_data(1200)
 
 # Apply PCA
 pca = PCA(n_components=2)  # We use 2 principal components for visualization
